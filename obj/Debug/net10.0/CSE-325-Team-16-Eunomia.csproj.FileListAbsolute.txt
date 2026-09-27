@@ -24,7 +24,6 @@ C:\Users\USER\team 16\CSE-325-Team-16-Eunomia\obj\Debug\net10.0\scopedcss\Compon
 C:\Users\USER\team 16\CSE-325-Team-16-Eunomia\obj\Debug\net10.0\scopedcss\Components\Layout\ReconnectModal.razor.rz.scp.css
 C:\Users\USER\team 16\CSE-325-Team-16-Eunomia\obj\Debug\net10.0\scopedcss\bundle\CSE-325-Team-16-Eunomia.styles.css
 C:\Users\USER\team 16\CSE-325-Team-16-Eunomia\obj\Debug\net10.0\scopedcss\projectbundle\CSE-325-Team-16-Eunomia.bundle.scp.css
-C:\Users\USER\team 16\CSE-325-Team-16-Eunomia\obj\Debug\net10.0\compressed\ghth5whbx9-{0}-khy4lop6wu-khy4lop6wu.gz
 C:\Users\USER\team 16\CSE-325-Team-16-Eunomia\obj\Debug\net10.0\compressed\5ijcth5qzv-{0}-bqjiyaj88i-bqjiyaj88i.gz
 C:\Users\USER\team 16\CSE-325-Team-16-Eunomia\obj\Debug\net10.0\compressed\05s9n9dzrm-{0}-c2jlpeoesf-c2jlpeoesf.gz
 C:\Users\USER\team 16\CSE-325-Team-16-Eunomia\obj\Debug\net10.0\compressed\ag3renrhss-{0}-erw9l3u2r3-erw9l3u2r3.gz
@@ -72,8 +71,6 @@ C:\Users\USER\team 16\CSE-325-Team-16-Eunomia\obj\Debug\net10.0\compressed\sztoc
 C:\Users\USER\team 16\CSE-325-Team-16-Eunomia\obj\Debug\net10.0\compressed\qvc7n714vu-{0}-abdmv1u4y3-abdmv1u4y3.gz
 C:\Users\USER\team 16\CSE-325-Team-16-Eunomia\obj\Debug\net10.0\compressed\jwvsvakk4l-{0}-wyu7y4jcvb-wyu7y4jcvb.gz
 C:\Users\USER\team 16\CSE-325-Team-16-Eunomia\obj\Debug\net10.0\compressed\pgu81x2xzw-{0}-wfr2hj6447-wfr2hj6447.gz
-C:\Users\USER\team 16\CSE-325-Team-16-Eunomia\obj\Debug\net10.0\compressed\6eg3lebt8y-{0}-gdbi7wpw4t-gdbi7wpw4t.gz
-C:\Users\USER\team 16\CSE-325-Team-16-Eunomia\obj\Debug\net10.0\compressed\2jqipa3owz-{0}-gdbi7wpw4t-gdbi7wpw4t.gz
 C:\Users\USER\team 16\CSE-325-Team-16-Eunomia\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\USER\team 16\CSE-325-Team-16-Eunomia\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Users\USER\team 16\CSE-325-Team-16-Eunomia\obj\Debug\net10.0\staticwebassets.development.json
