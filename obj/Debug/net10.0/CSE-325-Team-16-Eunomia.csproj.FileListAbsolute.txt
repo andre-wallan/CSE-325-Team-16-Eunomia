@@ -84,3 +84,6 @@ C:\Users\USER\team 16\CSE-325-Team-16-Eunomia\obj\Debug\net10.0\refint\CSE-325-T
 C:\Users\USER\team 16\CSE-325-Team-16-Eunomia\obj\Debug\net10.0\CSE-325-Team-16-Eunomia.pdb
 C:\Users\USER\team 16\CSE-325-Team-16-Eunomia\obj\Debug\net10.0\CSE-325-Team-16-Eunomia.genruntimeconfig.cache
 C:\Users\USER\team 16\CSE-325-Team-16-Eunomia\obj\Debug\net10.0\ref\CSE-325-Team-16-Eunomia.dll
+C:\Users\USER\team 16\CSE-325-Team-16-Eunomia\obj\Debug\net10.0\compressed\ghth5whbx9-{0}-njzopbjq0r-njzopbjq0r.gz
+C:\Users\USER\team 16\CSE-325-Team-16-Eunomia\obj\Debug\net10.0\compressed\6eg3lebt8y-{0}-x6rx05wvt5-x6rx05wvt5.gz
+C:\Users\USER\team 16\CSE-325-Team-16-Eunomia\obj\Debug\net10.0\compressed\2jqipa3owz-{0}-x6rx05wvt5-x6rx05wvt5.gz
